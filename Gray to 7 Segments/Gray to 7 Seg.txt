@@ -1,0 +1,6 @@
+Here I made this assignment into 2 parts first one is to convert from gray to binary and from binary to the seven segments
+
+In the gray to binary converter I made it into 2 ways firstly the assignments specified the gray code is 4 bits long so i made a simple converter where firstly for the msb i simply store it in the binary msb and then i xor the result in the binary msb with the gray 2nd msb and store it in the binary 2nd msb and the same for the rest i simply xor get the answer and xor it with the next bit
+The other way i simply made its genric version by putting it in a for loop
+
+In the binary to active low 7 segment converter i simply mapped its behavior in a case statement 
