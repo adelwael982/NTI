@@ -1,0 +1,5 @@
+The decoder here is made originally to be 4x2 decoder but i paramterised into 2 ways
+
+The first one I simply mapped its behavior in an always block such that the only output that lights up is the one that is addressed 
+
+The second one i made a shift register that shifts a 1 according to the input 
