@@ -1,3 +1,4 @@
 # NTI
 nti assignments and projects
-The final project was shown earlier in another repo under the name nti
+The final project is a reupload its was uploaded earilier in another repo
+
